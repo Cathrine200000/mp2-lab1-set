@@ -28,6 +28,7 @@ TELEM TBitField::GetMemMask(const int n) const // битовая маска дл
 }
 
 // доступ к битам битового поля
+// я нифига не знаю
 
 int TBitField::GetLength(void) const // получить длину (к-во битов)
 {
